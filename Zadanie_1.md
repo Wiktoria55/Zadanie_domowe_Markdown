@@ -140,5 +140,5 @@ To insert a ticked box, add an *x* between the **square brackets**: - [x]. Here 
 - [Sources](#sources)
 
 # Sources
-[Markdown Guide](https://https://www.markdownguide.org/basic-syntax/)  
+[Markdown Guide](https://www.markdownguide.org/basic-syntax/)  
 [Carpentries-incubator](https://carpentries-incubator.github.io/markdown-intro/06-lists/index.html)
