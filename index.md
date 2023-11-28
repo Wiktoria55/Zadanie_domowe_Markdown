@@ -112,7 +112,7 @@ To insert a task list, start the line with **hypen** - followed by **square brac
 - [ ] bird  
 - [ ] horse  
 
-To insert a ticked box, add an *x* between the **square brackets**: - [x]. Here is an example:
+To insert a ticked box, add an *x* between **square brackets** [ ] Here is an example:
 
 - [x] dog
 - [x] cat
@@ -143,3 +143,7 @@ To insert a ticked box, add an *x* between the **square brackets**: - [x]. Here 
 # Sources
 [Markdown Guide](https://www.markdownguide.org/basic-syntax/)  
 [Carpentries-incubator](https://carpentries-incubator.github.io/markdown-intro/06-lists/index.html)
+
+[x]
+[x]
+[x]
