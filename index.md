@@ -144,6 +144,3 @@ To insert a ticked box, add an *x* between **square brackets** [ ] Here is an ex
 [Markdown Guide](https://www.markdownguide.org/basic-syntax/)  
 [Carpentries-incubator](https://carpentries-incubator.github.io/markdown-intro/06-lists/index.html)
 
-[x]
-[x]
-[x]
