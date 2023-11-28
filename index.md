@@ -105,18 +105,18 @@ To insert an ordered list, start the line with a **hypen** -. Here is an example
 - horse
   
 ### Task Lists
-To insert a task list, start the line with a **hypen** - followed by **square brackets** with a **space bar** between them [ ]. Here is an example:
-- [ ] dog
-- [ ] cat
-- [ ] bird
-- [ ] horse
+To insert a task list, start the line with **square brackets** with a **space bar** between them [ ]. Here is an example:
+[ ] dog
+[ ] cat
+[ ] bird
+[ ] horse
 
 To insert a ticked box, add an *x* between the **square brackets**: - [x]. Here is an example:
 
-- [x] dog
-- [x] cat
-- [x] bird
-- [x] horse
+[x] dog
+[x] cat
+[x] bird
+[x] horse
 
 # Table of Contents
 
