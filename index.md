@@ -25,6 +25,7 @@ To italicize text, add one **asterisk** * before and after the word or phrase. H
 
 Lorem *ipsum* dolor sit amet.
 
+
 ## Strikethrough
 To strikethrough text, add one **tilde** ~ before and after the word or phrase. Here is an example:
 
@@ -73,7 +74,7 @@ To insert an image, start by adding an **exclamation mark** then enclose the *im
 ![*image text*](*image name*).   
 Here is an example:
 
-![Śpiący Leon](leon.png)
+![Śpiący Leon](leon.png "Leon")
 
 ## Tables
 To insert a table, use one **pipe** | to separate each column then use one **pipe** and at least three **dashes** --- to create each column's header.
@@ -96,7 +97,6 @@ To align text in the columns: to the left, right or center, add a **colon** to t
 |Data | 1   |white |
 |Data | 4  |green|
 |Data|2    |gold  |
-
 
 ## Lists
 There are three types of lists that can be created: an ordered list, an unordered list and a task list.
