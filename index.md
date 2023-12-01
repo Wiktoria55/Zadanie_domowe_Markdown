@@ -51,6 +51,10 @@ To insert a mathematical formula, add one **backtick** ` before and after the fo
 
 `x+y=z`
 
+You can also use **$$** to insert mathematical formulas: Here is an example:
+$$ x = {-d \pm \sqrt{d^2-125ef} \over 2z} $$
+
+
 ## Code
 To insert code, add three **backticks** ``` before and after the code. Here is an example: 
 
