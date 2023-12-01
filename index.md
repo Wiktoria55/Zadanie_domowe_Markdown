@@ -124,12 +124,26 @@ To insert a task list, start the line with **hypen** - followed by **square brac
 - [ ] bird  
 - [ ] horse  
 
+HTML version:
+
+<input type="checkbox" name="favorite_pet" value="1"> dog <br> 
+<input type="checkbox" name="favorite_pet" value="1"> cat <br>
+<input type="checkbox" name="favorite_pet" value="1"> bird <br>
+<input type="checkbox" name="favorite_pet" value="1"> horse <br>  
+
 To insert a ticked box, add an *x* between **square brackets** [ ] Here is an example:
 
 - [x] dog
 - [x] cat
 - [x] bird
 - [x] horse
+
+HTML version:
+
+<input type="checkbox" name="nameOfChoice" value="1" checked> dog <br>
+<input type="checkbox" name="nameOfChoice" value="1" checked> cat <br>
+<input type="checkbox" name="nameOfChoice" value="1" checked> bird <br>
+<input type="checkbox" name="nameOfChoice" value="1" checked> horse <br>
 
 # Table of Contents
 
