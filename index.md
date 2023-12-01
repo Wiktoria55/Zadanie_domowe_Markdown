@@ -76,7 +76,7 @@ Here is an example:
 ![Śpiący Leon](leon.png)
 
 ## Tables
-To insert a table, use one **vertical line** | to separate each column then use one **vertical line** and at least three **dashes** --- to create each column's header.
+To insert a table, use one **pipe** | to separate each column then use one **pipe** and at least three **dashes** --- to create each column's header.
 
 |Column 1|Column 2|Column 3 |
 |--------|--------|---------|
@@ -86,11 +86,23 @@ To insert a table, use one **vertical line** | to separate each column then use 
 |Data | 4  |green|
 |Data|2    |gold  |
 
+### Text alignment
+To align text in the columns: to the left, right or center, add a **colon** to the left, right or on both sides of the **hypens** within the header row. Here is an example:
+
+|Column 1|Column 2|Column 3|
+|:---|:---:|---:|
+|Data|2|black|
+|Data| 3   |blue |
+|Data | 1   |white |
+|Data | 4  |green|
+|Data|2    |gold  |
+
+
 ## Lists
 There are three types of lists that can be created: an ordered list, an unordered list and a task list.
 
 ### Ordered lists
-To insert an ordered list start the line with a **number**, then add a **fullstop** followed by one  **space bar**. Here is an example:
+To insert an ordered list start the line with a **number**, then add a **dot** followed by one  **space bar**. Here is an example:
 
 1. dog
 2. cat
@@ -133,6 +145,7 @@ To insert a ticked box, add an *x* between **square brackets** [ ] Here is an ex
   - [Links](#links)
   - [Images](#images)
   - [Tables](#tables)
+    - [Text alignment](#text-alignment)
   - [Lists](#lists)
     - [Ordered lists](#ordered-lists)
     - [Unordered lists](#unordered-lists)
