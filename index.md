@@ -71,7 +71,6 @@ To insert a link, add the *link text* in **square brackets** [] then add the *UR
 
 ## Images
 To insert an image, start by adding an **exclamation mark** then enclose the *image text* in **suqare brackets** [] followed by the *image name* in **parentheses** ().  
-![*image text*](*image name*).   
 Here is an example:
 
 ![Śpiący Leon](leon.png "Leon")
