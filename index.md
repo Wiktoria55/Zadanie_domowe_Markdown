@@ -64,6 +64,12 @@ To insert code, add three **backticks** ``` before and after the code. Here is a
 </html>
 ```
 
+```js
+console.log('Hello world');
+```
+
+    This is the code block.
+
 ## Links
 To insert a link, add the *link text* in **square brackets** [] then add the *URL* in **parantheses** (). Here is an example:
 
