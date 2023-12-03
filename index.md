@@ -54,7 +54,7 @@ To insert a mathematical formula, add one **backtick** ` before and after the fo
 You can also use $ to insert mathematical formulas: Here is an example:
 
 $$
-x = {-d \pm \sqrt{d^2-125ef} \over 2z}
+f(x) = ax+b
 $$
 
 
