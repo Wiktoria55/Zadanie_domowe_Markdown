@@ -51,7 +51,7 @@ To insert a mathematical formula, add one **backtick** ` before and after the fo
 
 `x+y=z`
 
-You can also use $ to insert mathematical formulas: Here is an example:
+You can also use $$ to insert mathematical formulas: Here is an example:
 
 $$
 f(x) = ax+b
